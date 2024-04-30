@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "108813470924",
+    "project_id": "examenmobile-955a9",
+    "storage_bucket": "examenmobile-955a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108813470924:android:22c1cbc4e2f9b1ba550669",
+        "android_client_info": {
+          "package_name": "com.example.exam_mobile_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw4z2SxtvqMDClr2kboNZA4VOovVVUR68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
